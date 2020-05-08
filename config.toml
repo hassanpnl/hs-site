@@ -1,0 +1,53 @@
+baseURL = "https://www.example.com/"
+title = "Hassan's Blog"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = false 
+copyright = "© 2020 Hassan. "
+description = "I write about stuff I like"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":tada:"
+  # change this!
+  twitter = "siegerts"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blogs"
+  url = "post/"
+
+[[params.menu]]
+  name = "thoughts"
+  url = "thoughts/"
+  
+
+[[params.menu]]
+  name = "ideas"
+  url = "ideas/"
+  
+[[params.menu]]
+  name = "about me"
+  url = "about/"
+
+[[params.menu]]
+  name = "contact me"
+  url = "contactme/"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
