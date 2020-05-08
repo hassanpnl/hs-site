@@ -7,7 +7,7 @@ tags:
   - Typography
 ---
 
-I love learning about random shit. Often times I'll spend an hour or two learning about intriguing things.
+I love learning about new things. Often times, I'll spend hours reading about  research in emerging fields of technology. 
 
 Some cool things I enjoy learning about:
 
