@@ -10,4 +10,4 @@ tags:
 You can contact me on:
 - [Linkedin](https://www.linkedin.com/in/hassanbhatti/?originalSubdomain=ca)
 - [Twitter](https://twitter.com/hwbhatti)
-- Email -> Insert Email
+- [Email](mailto:hassan@theksociety.com)
