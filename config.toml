@@ -22,7 +22,7 @@ description = "I write about stuff I like"
 
 [[params.menu]]
   name = "blogs"
-  url = "post/"
+  url = "projects/"
 
 [[params.menu]]
   name = "thoughts"
@@ -32,6 +32,10 @@ description = "I write about stuff I like"
 [[params.menu]]
   name = "ideas"
   url = "ideas/"
+
+[[params.menu]]
+  name = "blog compilations"
+  url = "blogcompilations/"
   
 [[params.menu]]
   name = "about me"
