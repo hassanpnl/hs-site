@@ -27,7 +27,10 @@ description = "I write about stuff I like"
 [[params.menu]]
   name = "thoughts"
   url = "thoughts/"
-  
+
+[[params.menu]]
+  name = "topics"
+  url = "topics/"
 
 [[params.menu]]
   name = "ideas"
