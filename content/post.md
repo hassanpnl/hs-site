@@ -14,4 +14,9 @@ Some cool things I enjoy learning about:
 - Bayesian reasoning
 - Intro to nootropics
 
+
+Here are compilations from other blogs which I found really valuable. 
+- {{<naval>}}
+- 
+
 Also interested in any of these topics? Connect with me on [Twitter](https://twitter.com/hwbhatti).
