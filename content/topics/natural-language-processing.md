@@ -12,3 +12,5 @@ Here are some papers which every computer vision enthusiast should look into:
 - Adversarial Training Methods for Semi-Supervised Text Classification ([link](https://arxiv.org/pdf/1605.07725v3.pdf))
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter ([link](https://arxiv.org/pdf/1910.01108v4.pdf))
 - Deep contextualized word representations ([link](https://arxiv.org/pdf/1802.05365v2.pdf))
+- Incorporating BERT into Neural Machine Translation ([link](https://arxiv.org/pdf/2002.06823v1.pdf))
+- Unsupervised Statistical Machine Translation ([link](https://arxiv.org/pdf/1809.01272v1.pdf))

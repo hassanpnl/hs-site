@@ -16,8 +16,8 @@ Here are some papers which every computer vision enthusiast should look into:
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([link](https://arxiv.org/pdf/1905.11946.pdf))
 - MobileNetV2: Inverted Residuals and Linear Bottlenecks ([link](https://arxiv.org/pdf/1801.04381.pdf))
 - OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([link](https://arxiv.org/pdf/1812.08008.pdf))
-- Dynamic Routing Between Capsules ([link](https://www.notion.so/nushaine/Computer-Vision-b67322c012d74b3a99cd3bc5452f1600))
-- Attention is all You Need ([link](https://www.notion.so/nushaine/Computer-Vision-b67322c012d74b3a99cd3bc5452f1600))
+- Dynamic Routing Between Capsules ([link](https://arxiv.org/pdf/1710.09829.pdf))
+- Atlas: End-to-End 3D Scene Reconstruction from Posed Images ([link](https://arxiv.org/pdf/2003.10432.pdf))
 
 
 Other curated compilations of papers for further reading (computer vision and deep learning in general):
