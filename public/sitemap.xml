@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://www.example.com/topics/computer-vision/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.example.com/tags/demo/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
@@ -58,7 +63,27 @@
   </url>
   
   <url>
+    <loc>https://www.example.com/topics/natural-language-processing/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/quantum-computing/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.example.com/contactme/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/reinforcement-learning/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
   
