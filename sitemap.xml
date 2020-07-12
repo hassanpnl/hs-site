@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/development/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/development/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/hugo/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/project/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/computer-vision/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/demo/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/about/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/post/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/thoughts/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/natural-language-processing/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/quantum-computing/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/contactme/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/reinforcement-learning/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/topics/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/ideas/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/series/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Hassan&#39;s Blog</title>
+    <link>https://www.example.com/topics/</link>
+    <description>Recent content in Topics on Hassan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Hassan. </copyright>
+    <lastBuildDate>Sat, 29 Sep 2018 11:36:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://www.example.com/topics/computer-vision/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/topics/computer-vision/</guid>
+      <description>Here are some papers which every computer vision enthusiast should look into:
+ Learning Depth with Convolutional Spatial Propagation Network (link) Stacked Hourglass Networks for Human Pose Estimation (link) Volumetric Regression Networks for 3D Human Body Reconstruction (link) Speed Estimation w/ 3D Object Detection (link) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (link) MobileNetV2: Inverted Residuals and Linear Bottlenecks (link) OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (link) Dynamic Routing Between Capsules (link) Atlas: End-to-End 3D Scene Reconstruction from Posed Images (link)  Other curated compilations of papers for further reading (computer vision and deep learning in general):</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://www.example.com/topics/natural-language-processing/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/topics/natural-language-processing/</guid>
+      <description>Here are some papers which every computer vision enthusiast should look into:
+ Attention is all You Need (link) Adversarial Training Methods for Semi-Supervised Text Classification (link) DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter (link) Deep contextualized word representations (link) Incorporating BERT into Neural Machine Translation (link) Unsupervised Statistical Machine Translation (link) DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation (link) DialogueRNN: An Attentive RNN for Emotion Detection in Conversations (link)  </description>
+    </item>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://www.example.com/topics/quantum-computing/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/topics/quantum-computing/</guid>
+      <description>Here are some compilations of posts from blogs which I find really valuable.
+ Continuous-variable quantum neural networks (link) Quantum Natural Gradient (link) Transfer learning in hybrid classical-quantum neural networks (link) Variational Quantum Circuits for Deep Reinforcement Learning (link)  Other curated compilations of quantum papers for further reading:
+ Really Interesting Set of Medium Blogs on Quantum (link) More Resources on Quantum (link)  </description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://www.example.com/topics/reinforcement-learning/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/topics/reinforcement-learning/</guid>
+      <description>Here are some papers which every computer vision enthusiast should look into:
+ Capturing Financial markets to apply Deep Reinforcement Learning (link) A Brief Survey of Deep Reinforcement Learning (link) Deep Reinforcement Learning with Double Q-learning (link) HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction (link)  Other curated lists of RL papers for further reading:
+ OpenAI Compilation (link) TopBot Compilation + Summaries (link) Robert T Blog: Papers + SUmmaries (link) Best Deep Reinforcement Learning Research of 2019 So Far (link) MC reinforcement learning paper compilations (link) Neptune AI paper compilation (link)  </description>
+    </item>
+    
+  </channel>
+</rss>
