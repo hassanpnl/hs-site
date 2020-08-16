@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Hassan&#39;s Digital Home</title>
+    <title>Demo on Hassan&#39;s Blog</title>
     <link>https://www.example.com/tags/demo/</link>
-    <description>Recent content in Demo on Hassan&#39;s Digital Home</description>
+    <description>Recent content in Demo on Hassan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Hassan. </copyright>
@@ -33,13 +33,13 @@
     </item>
     
     <item>
-      <title>Hi, I&#39;m Hassan</title>
+      <title>Hi, I&#39;m Hassan - I love building things and helping people achieve their potential</title>
       <link>https://www.example.com/about/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
       <guid>https://www.example.com/about/</guid>
-      <description>I grew up in Rawalpindi, Pakistan in a family, where I learnt early on the importance of education/skills, getting things done and developed hustle, resilience, and curiosity - Special thanks to my Parents!
-After high-school, I landed at University of British Columbia (UBC) on a full ride scholarship. My experience at UBC taught me the importance of building relationships, story-telling, authenticity, serendipity, and continuous growth. It also gave me an opportunity to take classes in various fields of education, experience different cultures, and grow 10X.</description>
+      <description>I grew up in Rawalpindi, Pakistan. I learned early on the importance of education/skills, getting things done, hustle, resilience, and curiosity - Special thanks to my parents for it!
+After high school, I attended the University of British Columbia (UBC) on a full-ride scholarship. My experience at UBC taught me the importance of building relationships, story-telling, authenticity, recognizing opportunities and continuous growth. It also gave me the chance to expose myself to a variety of things, allowing me to grow 10X.</description>
     </item>
     
     <item>
@@ -53,10 +53,10 @@ After high-school, I landed at University of British Columbia (UBC) on a full ri
     
     <item>
       <title>My thoughts</title>
-      <link>https://www.example.com/thoughts/</link>
+      <link>https://www.example.com/ideas/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://www.example.com/thoughts/</guid>
+      <guid>https://www.example.com/ideas/</guid>
       <description>I often reflect or think about various topics or ideas to further my knowledge or explore opportunities. If you are interested in any of the following areas or are working in them please do reach out will love to chat and find ways to collaborate!
 What&amp;rsquo;s recently been on my mind:
  Using the recent advancements in NLP to reshape provider operations Building unique D2C brands in Pakistan How to improve the experience of constructing and renovating a home in Pakistan  Also interested in any of these topics?</description>
@@ -100,7 +100,7 @@ What&amp;rsquo;s recently been on my mind:
       
       <guid>https://www.example.com/contactme/</guid>
       <description>You can contact me on:
- Linkedin Twitter Email  </description>
+ Linkedin Twitter Email Stay updated on new publications  </description>
     </item>
     
     <item>
